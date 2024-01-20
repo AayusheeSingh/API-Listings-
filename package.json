@@ -6,7 +6,8 @@
     "mongoose": "^8.1.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build":"npm install"
   },
   "name": "listingsapi",
   "version": "1.0.0",
