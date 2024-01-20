@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "build":"npm install"
+    "Build":"npm install"
   },
   "name": "listingsapi",
   "version": "1.0.0",
